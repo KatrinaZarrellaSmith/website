@@ -1,20 +1,37 @@
 ---
-title: "homepage"
-author: "Katrina Zarrella Smith"
-date: "11/10/2020"
+title: "Katrina Zarrella Smith"
 output: html_document
 ---
 
-Katrina Zarrella Smith
+I am a PhD student in the [Jordaan Fisheries and Aquatic Ecology Lab](https://www.headwaters-to-ocean.org/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I am interested in the movement of marine and aquatic organisms and how this impacts ecological interactions.
 
-# Big header
+<center>
 
-## Medium header
+<img src="headshot.jpg" width="35%">
 
-### Smaller header
+</center>
 
-```{r}
-#code chunk
+### Publications
 
-````
+Petersen, CW, C Mazzoldi, KA Zarrella, and RE Hale. 2005. Fertilization mode, sperm characteristics, mate choice and parental care patterns in Artedius spp. (Cottidae). Journal of Fish Biology 67(1): 239-254.
 
+Petersen, CW, KA Zarrella, CA Ruben, and C Mazzoldi. 2004. Reproductive biology of the rosylip sculpin, an intertidal spawner. Journal of Fish Biology 64(4): 863-875.
+
+### Other Publications
+Fundis, AT, KA Zarrella, E Donnelly, RL Preston, GW Kidder, III, and CW Petersen. 2003. Fundulus heteroclitus distribution in Northeast Creek: sex and size class changes along a salinity gradient. Bulletin of the Mount Desert Island Biological Laboratory 42: 18-20.
+
+Mickle, JE, K Zarrella, L Petell, A Lankowski, M Clay and JA Dranoff. 2002. Identification and characterization of a novel P2Y nucleotide receptor in Fundulus heteroclitus. Bulletin of the Mount Desert Island Biological Laboratory 41: 15-16.
+
+<img src="net.jpg" width="30%"><img src="bucket.jpg" width="30%"><img src="boat.jpg" width="35.5%">
+
+### Current Research
+
+Timing and habitat use of winter flounder populations within Boston Harbor (UMass Amherst and MA Division of Marine Fisheries)
+
+Green crab movement ecology and monitoring (Wells National Estuarine Research Reserve)
+
+### Education
+B.A. Human Ecology, College of the Atlantic, Bar Harbor, ME
+
+### Contact Me
+kzarrellasmi@umass.edu
