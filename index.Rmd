@@ -1,0 +1,20 @@
+---
+title: "homepage"
+author: "Katrina Zarrella Smith"
+date: "11/10/2020"
+output: html_document
+---
+
+Katrina Zarrella Smith
+
+# Big header
+
+## Medium header
+
+### Smaller header
+
+```{r}
+#code chunk
+
+````
+
